@@ -8,6 +8,9 @@ This repository showcases interactive dashboards I’ve built using Power BI, DA
 ## 🚀 Projects
 
 ### 1️⃣ Spotify Analysis
-📂 [View Project](./Project-1_ListeningTime)  
-🖼️ Preview: ![Dashboard](./Project-1_ListeningTime/Screenshots/dashboard.png)  
-🔎 Description: An interactive dashboard analyzing music listening habits, segmented into quadrants using DAX measures for listening time and track frequency.
+[View Project](./Project-1_ListeningTime)  
+![Dashboard](./Project-1_ListeningTime/Screenshots/dashboard.png)  
+
+📂 [Spotify Dataset (PDF)](./Spotify%20Dataset/Spotify%20Dataset.pdf)  
+📂 [Spotify Dataset (PBIX)](./Spotify%20Dataset/Spotify%20Dataset.pbix)
+
