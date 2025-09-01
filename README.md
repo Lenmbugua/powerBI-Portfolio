@@ -37,5 +37,4 @@ This repository contains dashboards and analysis projects created using **Power 
 ## 📬 Contact
 If you’d like to connect or discuss these dashboards:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-link)
-- Email: your.email@example.com
+- Email: your.helenmbugua04@gmail.com
