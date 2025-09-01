@@ -37,4 +37,4 @@ This repository contains dashboards and analysis projects created using **Power 
 ## 📬 Contact
 If you’d like to connect or discuss these dashboards:
 
-- Email: your.helenmbugua04@gmail.com
+- Email:helenmbugua04@gmail.com
