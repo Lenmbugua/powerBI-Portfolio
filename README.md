@@ -9,20 +9,20 @@ This repository contains dashboards and analysis projects created using **Power 
 
 ### 1️⃣ Spotify Dataset
 - **Description:** Analysis of Spotify music data, highlighting trends, KPIs, and insights into streaming behavior.
-- 📂 [Project Folder](./Spotify%20Dataset)
-- 📄 [Dashboard (PDF)](./Spotify%20Dataset/Spotify%20Dataset.pdf)
-- 🗂️ [Power BI File (.pbix)](./Spotify%20Dataset/Spotify%20Dataset.pbix)
-- 📝 [Project README](./Spotify%20Dataset/Readme.md.txt)
+- 📂 [Project Folder](./powerBI%20Portfolio/Spotify%20Dataset)
+- 📄 [Dashboard Screenshot (PDF)](./powerBI%20Portfolio/Spotify%20Dataset/Spotify%20Dataset.pdf)
+- 🗂️ [Power BI File (.pbix)](./powerBI%20Portfolio/Spotify%20Dataset/Spotify%20Dataset.pbix)
+- 📝 [Project README](./powerBI%20Portfolio/Spotify%20Dataset/Readme.md.txt)
 
 ---
 
 ### 2️⃣ Professional Survey Data
 - **Description:** Insights from a global survey of data professionals, covering salaries, roles, tools, and job satisfaction.
-- 📂 [Project Folder](./Professional%20Survey%20Data)
-- 📄 [Dashboard (PDF)](./Professional%20Survey%20Data/Data%20Professional%20Survey%20Dashboard.pdf)
-- 🗂️ [Power BI File (.pbix)](./Professional%20Survey%20Data/Data%20Professional%20Survey%20Dashboard.pbix)
-- 📊 [Dataset (Excel)](./Professional%20Survey%20Data/Professional%20Survey%20Data.xlsx)
-- 📝 [Project README](./Professional%20Survey%20Data/Readme.md.md)
+- 📂 [Project Folder](./powerBI%20Portfolio/Professional%20Survey%20Data)
+- 📄 [Dashboard Screenshot (PDF)](./powerBI%20Portfolio/Professional%20Survey%20Data/Data%20Professional%20Survey%20Dashboard.pdf)
+- 🗂️ [Power BI File (.pbix)](./powerBI%20Portfolio/Professional%20Survey%20Data/Data%20Professional%20Survey%20Dashboard.pbix)
+- 📊 [Dataset (Excel)](./powerBI%20Portfolio/Professional%20Survey%20Data/Professional%20Survey%20Data.xlsx)
+- 📝 [Project README](./powerBI%20Portfolio/Professional%20Survey%20Data/Readme.md.md)
 
 ---
 
