@@ -1,4 +1,7 @@
 Adidas US Sales Analysis
+
+
+
 📌 Overview
 
 This project analyzes Adidas US sales data (2020–2021) to uncover sales performance trends across regions, products, and retailers. The insights are visualized in a Power BI dashboard, helping identify revenue drivers, market opportunities, and consumer preferences.
