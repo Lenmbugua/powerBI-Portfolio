@@ -24,7 +24,7 @@ This repository contains dashboards and analysis projects created using **Power 
 - 📊 [Dataset (Excel)](./powerBI%20Portfolio/Professional%20Survey%20Data/Professional%20Survey%20Data.xlsx)
 - 📝 [Project README](./powerBI%20Portfolio/Professional%20Survey%20Data/Readme.md.md)
 
-### 1️⃣ Adidas US Sales Analysis
+### 3️⃣ Adidas Sales Analysis
 - **Description:** Analysis of Adidas sales data (2020–2021) in the US, uncovering insights on regional sales, product performance, retailer contributions, and profitability. Dashboard built in Power BI with interactive filters for time, region, product, and retailer.
 - 🖼️ [Dashboard Screenshot (PDF)](./Adidas%20Analysis/Adidas%20Analysis.pdf)
 - 📊 [Power BI File (.pbix)](./Adidas%20Analysis/Adidas%20Analysis.pbix)
