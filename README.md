@@ -26,7 +26,7 @@ This repository contains dashboards and analysis projects created using **Power 
 ### 4️⃣ NRC Uber Analysis
 - **Description:** Analysis of ride-hailing bookings in the NCR region, highlighting booking patterns, cancellation insights, revenue drivers, and vehicle performance across 150K+ rides.
 - 📂 [Project Folder](./NRC%20Uber%20Analysis)
-- 📄 [Dashboard Screenshot (PDF)](./NRC%20Uber%20Analysis/NRC%20uber%20analysis.pdf)
+- 📄 [Dashboard Screenshot (PDF)](./NRC%20Uber%20Analysis/NRC%20Hail%20Rides.pdf)    
 - 🗂️ [Power BI File (.pbix)](./NRC%20Uber%20Analysis/NRC%20uber%20analysis.pbix)
 - 📊 [Dataset (CSV)](./NRC%20Uber%20Analysis/ncr_ride_bookings.csv)
 - 📝 [Project README](./NRC%20Uber%20Analysis/Readme.md.txt)
