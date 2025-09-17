@@ -51,11 +51,11 @@ This repository contains dashboards and analysis projects created using **Power 
   - **Product Analysis** (category performance, top products, profitability trends)  
   - **Customer Analysis** (top customers, purchase patterns, segment performance)  
   - **Operational Insights** (shipping performance, delivery times, order priority impact)  
-- 📂 [Project Folder](./Global%20Superstore%20Analysis)  
-- 📄 [Dashboard Screenshot (PDF)](./Global%20Superstore%20Analysis/Global%20Superstore.pdf)  
-- 🗂️ [Power BI File (.pbix)](./Global%20Superstore%20Analysis/Global%20Superstore.pbix)  
-- 📊 [Dataset (CSV)](./Global%20Superstore%20Analysis/cleaned_sales_data.csv)  
-- 📝 [Project README](./Global%20Superstore%20Analysis/Readme.md)  
+- 📂 [Project Folder](./Global%20Superstore%20Data)  
+- 📄 [Dashboard Screenshot (PDF)](./Global%20Superstore%20Data/Global%20Superstore%20Data.pdf)  
+- 🗂️ [Power BI File (.pbix)](./Global%20Superstore%20Data/Global%20Superstore%20Data.pbix)  
+- 📊 [Dataset (CSV)](./Global%20Superstore%20Data/cleaned_sales_data.csv)  
+- 📝 [Project README](./Global%20Superstore%20Data/Readme.md.txt)  
 
 ---
 
