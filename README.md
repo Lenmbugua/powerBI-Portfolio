@@ -64,7 +64,7 @@ This repository contains dashboards and analysis projects created using **Power 
   - **Revenue Analysis** (contract revenue, customer value distribution, service revenue contribution, payment method performance)  
   - **Interactive slicers and drill-throughs** for deeper customer-level insights.  
 - 📂 [Project Folder](./Telco%20Churn%20Dataset) 
-- 📄 [Dashboard Screenshot (PDF)](./Telecom%20Churn%20Analysis/Telecom%20Churn%20Analysis.pdf)  
+- 📄 [Dashboard Screenshot (PDF)](./Telco%20Churn%20Dataset/Telco%20Churn%20Dataset.pdf) 
 - 🗂️ [Power BI File (.pbix)](./Telecom%20Churn%20Analysis/Telecom%20Churn%20Analysis.pbix)  
 - 📊 [Dataset (Excel)](./Telecom%20Churn%20Analysis/Telecom%20Churn%20Dataset.xlsx)  
 - 📝 [Project README](./Telco%20Churn%20Dataset/Readme.md.txt)  
