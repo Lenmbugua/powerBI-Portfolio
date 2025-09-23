@@ -63,7 +63,7 @@ This repository contains dashboards and analysis projects created using **Power 
   - **Churn Analysis** (tenure vs churn patterns, payment method churn, service count impact, high-risk customer table)  
   - **Revenue Analysis** (contract revenue, customer value distribution, service revenue contribution, payment method performance)  
   - **Interactive slicers and drill-throughs** for deeper customer-level insights.  
-- 📂 [Project Folder](./Telecom%20Churn%20Analysis)  
+- 📂 [Project Folder](./Telecom%20Churn%20Dataset)  
 - 📄 [Dashboard Screenshot (PDF)](./Telecom%20Churn%20Analysis/Telecom%20Churn%20Analysis.pdf)  
 - 🗂️ [Power BI File (.pbix)](./Telecom%20Churn%20Analysis/Telecom%20Churn%20Analysis.pbix)  
 - 📊 [Dataset (Excel)](./Telecom%20Churn%20Analysis/Telecom%20Churn%20Dataset.xlsx)  
