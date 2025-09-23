@@ -66,7 +66,7 @@ This repository contains dashboards and analysis projects created using **Power 
 - 📂 [Project Folder](./Telco%20Churn%20Dataset) 
 - 📄 [Dashboard Screenshot (PDF)](./Telco%20Churn%20Dataset/Telco%20Churn%20Dataset.pdf) 
 - 🗂️ [Power BI File (.pbix)](./Telco%20Churn%20Dataset/Telco%20Dataset.pbix)   
-- 📊 [Dataset (Excel)](./Telecom%20Churn%20Analysis/Telecom%20Churn%20Dataset.xlsx)  
+- 📊 [Dataset (Excel)](./Telco%20Churn%20Dataset/Telco%20Churn%20Dataset.csv) 
 - 📝 [Project README](./Telco%20Churn%20Dataset/Readme.md.txt)  
 
 
