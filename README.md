@@ -72,7 +72,7 @@ This repository contains dashboards and analysis projects created using **Power 
 ---
 
 ### 7️⃣ Data Science Jobs Analysis  
-- **Description:** Comprehensive analysis of global data science job postings, focusing on salaries, employers, skills demand, and career progression. The dashboard is structured across four pages:  
+- **Description:** Comprehensive analysis of global data science job postings in 2025, focusing on salaries, employers, skills demand, and career progression. The dashboard is structured across four pages:  
   - **Market Overview** (KPIs, salary comparisons, job counts, geographic spread)  
   - **Employers** (top hiring companies, salary ranges by employer, highest paying companies)  
   - **Skills** (hottest skill, demand hierarchy, salary premiums by skill, skill evolution timeline)  
