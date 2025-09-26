@@ -69,6 +69,19 @@ This repository contains dashboards and analysis projects created using **Power 
 - 📊 [Dataset (Excel)](./Telco%20Churn%20Dataset/Telco%20Churn%20Dataset.csv) 
 - 📝 [Project README](./Telco%20Churn%20Dataset/Readme.md.txt)  
 
+---
+
+### 7️⃣ Data Science Jobs Analysis  
+- **Description:** Comprehensive analysis of global data science job postings, focusing on salaries, employers, skills demand, and career progression. The dashboard is structured across four pages:  
+  - **Market Overview** (KPIs, salary comparisons, job counts, geographic spread)  
+  - **Employers** (top hiring companies, salary ranges by employer, highest paying companies)  
+  - **Skills** (hottest skill, demand hierarchy, salary premiums by skill, skill evolution timeline)  
+  - **Career Ladder & Job Types** (career progression Sankey, skill progression by seniority, remote vs on-site salary gaps, job posting recency funnel)  
+- 📂 [Project Folder](./Data%20Science%20Jobs%20Analysis)  
+- 📄 [Dashboard Screenshot (PDF)](./Data%20Science%20Jobs%20Analysis/Data%20Science%20Jobs%20Dashboard.pdf)  
+- 🗂️ [Power BI File (.pbix)](./Data%20Science%20Jobs%20Analysis/Data%20Science%20Analysis%20Jobs.pbix)  
+- 📊 [Dataset (CSV)](./Data%20Science%20Jobs%20Analysis/cleaned_datascience_data.csv)  
+- 📝 [Project README](./Data%20Science%20Jobs%20Analysis/Readme.md)  
 
 ---
 
