@@ -77,7 +77,7 @@ This repository contains dashboards and analysis projects created using **Power 
   - **Employers** (top hiring companies, salary ranges by employer, highest paying companies)  
   - **Skills** (hottest skill, demand hierarchy, salary premiums by skill, skill evolution timeline)  
   - **Career Ladder & Job Types** (career progression Sankey, skill progression by seniority, remote vs on-site salary gaps, job posting recency funnel)  
-- 📂 [Project Folder](./Data%20Science%20Jobs%20Analysis)  
+- 📂 [Project Folder](./Data%20Science%20Jobs) 
 - 📄 [Dashboard Screenshot (PDF)](./Data%20Science%20Jobs%20Analysis/Data%20Science%20Jobs%20Dashboard.pdf)  
 - 🗂️ [Power BI File (.pbix)](./Data%20Science%20Jobs%20Analysis/Data%20Science%20Analysis%20Jobs.pbix)  
 - 📊 [Dataset (CSV)](./Data%20Science%20Jobs%20Analysis/cleaned_datascience_data.csv)  
