@@ -81,7 +81,7 @@ This repository contains dashboards and analysis projects created using **Power 
   - **Career Ladder & Job Types** (career progression Sankey, skill progression by seniority, remote vs on-site salary gaps, job posting recency funnel)  
 - 📂 [Project Folder](./Data%20Science%202025%20Jobs)  
 - 📄 [Dashboard Screenshot (PDF)](./Data%20Science%202025%20Jobs/Data%20Science%202025%20Jobs%20Dashboard.pdf)  
-- 🗂️ [Power BI File (.pbix)](./Data%20Science%202025%20Jobs/Data%20Science%202025%20Jobs.pbix)  
+- 🗂️ [Power BI File (.pbix)](./Data%20Science%2025%20Jobs/Data%20Science%202025%20Jobs.pbix) 
 - 📊 [Dataset (CSV)](./Data%20Science%202025%20Jobs/cleaned_datascience_data.csv)  
 - 📝 [Project README](./Data%20Science%202025%20Jobs/Readme.md)  
 
