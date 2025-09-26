@@ -73,6 +73,8 @@ This repository contains dashboards and analysis projects created using **Power 
 
 ---
 
+---
+
 ### 7️⃣ Data Science 2025 Jobs  
 - **Description:** Comprehensive analysis of 2025 data science job postings, focusing on salaries, employers, skills demand, and career progression. The dashboard is structured across four pages:  
   - **Market Overview** (KPIs, salary comparisons, job counts, geographic spread)  
@@ -80,10 +82,11 @@ This repository contains dashboards and analysis projects created using **Power 
   - **Skills** (hottest skill, demand hierarchy, salary premiums by skill, skill evolution timeline)  
   - **Career Ladder & Job Types** (career progression Sankey, skill progression by seniority, remote vs on-site salary gaps, job posting recency funnel)  
 - 📂 [Project Folder](./Data%20Science%202025%20Jobs)  
-- 📄 [Dashboard Screenshot (PDF)](./Data%20Science%202025%20Jobs/Data%20Science%202025%20Jobs%20Dashboard.pdf)  
-- 🗂️ [Power BI File (.pbix)](./Data%20Science%2025%20Jobs/Data%20Science%202025%20Jobs.pbix) 
+- 📄 [Dashboard Screenshot (PDF)](./Data%20Science%202025%20Jobs/Data%20Science%20Analysis%20Jobs.pdf)  
+- 🗂️ [Power BI File (.pbix)](./Data%20Science%202025%20Jobs/Data%20Science%20Analysis%20Jobs.pbix)  
 - 📊 [Dataset (CSV)](./Data%20Science%202025%20Jobs/cleaned_datascience_data.csv)  
-- 📝 [Project README](./Data%20Science%202025%20Jobs/Readme.md)  
+- 📝 [Project README](./Data%20Science%202025%20Jobs/Readme.md.txt)  
+
 
 
 ---
